@@ -1,3 +1,5 @@
+![Italia](/Flag Italia.png)
+
 # Italy in QGIS: A Tutorial on Adding Vector Layers
 ### Author: Whitney.Landis@mavs.uta.edu
 ## This tutorial is designed so you can practice the skills you used in the [Programming Historian QGIS Tutorial about adding layers](http://programminghistorian.org/lessons/qgis-layers)
@@ -22,10 +24,16 @@
 11. Open the *Charles Scribner’s Sons 1890 Map of Italy.* Import this file as a raster layer in QGIS. Drag it in the “layers” panel just as you did the last map.
 12. Go back into the Properties of your various layers. Play with border width and labels, and re-order your layers, to get a feel for the various ways you can manipulate maps in QGIS.
 13. Now let's work with georeferencing, and add a preunification map of the Italian states. Download the [Irfanviewer](http://www.irfanview.com/).
+
+![Irfanview](/Irfanview Screenshot.png)
+
 14. Go to [Carte](https://www.google.com/search?q=map+of+pre-unification+italy&biw=1920&bih=964&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwibtcfRqrXPAhWGGR4KHeEqDkYQ7AkILA&dpr=1#imgrc=eyQRnrSyHFHDWM%3A) and save the image as a JPEG.
 15. Batch Convert the image through Irfanviewer into a TIF file.
 16. Select the "Georeferencer" option through the "Raster" option on the toolbar.
 17. Choose several corroborating points from the _Carte_ map and the shapefile. When you are finished, amke sure that you select the option to send to QGIS.
-18. You should see the _Carte_ map superimposed over the shapefile. Go to the layer and change the transparency to 35%. This should allow you to easily view the current roads and modern map contrasting through the _Carte_ image. 
+18. You should see the _Carte_ map superimposed over the shapefile. Go to the layer and change the transparency to 35%. This should allow you to easily view the current roads and modern map contrasting through the _Carte_ image.
+
+![Carte with Shapefile](Carte Addition Screenshot.png)
+
 19. Smile! You can now look at preunification and postunification political information about Italy underpinned by the hyperaccurate GIS information. Thats pretty cool.
 20. Save your work.  Play around with some of the features and see what else you can extrapolate. Close QGIS.
