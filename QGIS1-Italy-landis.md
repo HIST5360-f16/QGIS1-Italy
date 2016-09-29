@@ -33,7 +33,7 @@
 17. Choose several corroborating points from the _Carte_ map and the shapefile. When you are finished, amke sure that you select the option to send to QGIS.
 18. You should see the _Carte_ map superimposed over the shapefile. Go to the layer and change the transparency to 35%. This should allow you to easily view the current roads and modern map contrasting through the _Carte_ image.
 
-![Carte with Shapefile](Carte Addition Screenshot.png)
+![Carte with Shapefile](Carte addition screenshot.png)
 
 19. Smile! You can now look at preunification and postunification political information about Italy underpinned by the hyperaccurate GIS information. Thats pretty cool.
 20. Save your work.  Play around with some of the features and see what else you can extrapolate. Close QGIS.
